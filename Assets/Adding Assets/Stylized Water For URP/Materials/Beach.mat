@@ -129,6 +129,7 @@ Material:
     - _OcclusionStrength: 1
     - _PlanarReflectionFresnel: 2.5
     - _PlanarReflectionStrength: 0.82
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _RampSmoothing: 0.5
     - _RampThreshold: 0.5
